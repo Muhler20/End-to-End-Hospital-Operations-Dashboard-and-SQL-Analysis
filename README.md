@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Hospital%20Operations%20Dashboard&fontSize=55&animation=fadeIn&fontAlignY=38&desc=End-to-End%20Healthcare%20Analytics%20%2B%20SQL&descAlignY=51&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:DC2626&height=250&section=header&text=Hospital%20Operations%20Dashboard&fontSize=55&animation=fadeIn&fontAlignY=38&desc=End-to-End%20Healthcare%20Analytics%20%2B%20SQL&descAlignY=51&descAlign=62" width="100%" />
 
 [![Python](https://img.shields.io/badge/Python-3.13+-blue?style=for-the-badge\&logo=python\&logoColor=white)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge\&logo=jupyter\&logoColor=white)](https://jupyter.org)
