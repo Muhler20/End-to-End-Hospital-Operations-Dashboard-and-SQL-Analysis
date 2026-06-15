@@ -3,3 +3,5 @@ End-to-end healthcare analytics project that leverages Python, SQL, SQLite, and 
 
 
 Performed categorical data cleaning to standardize inconsistent values across severity levels, departments, and admission types, eliminating duplicate filter categories caused by casing and whitespace inconsistencies.
+
+<img width="1881" height="858" alt="image" src="https://github.com/user-attachments/assets/082384fa-83bf-46d4-a7bf-78a176f86b75" />
