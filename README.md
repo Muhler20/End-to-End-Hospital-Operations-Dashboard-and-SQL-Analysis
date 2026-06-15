@@ -171,45 +171,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-# 📸 Dashboard Screenshots
-
-### KPI Dashboard
-
-Add screenshot here
-
-```markdown
-![Dashboard Overview](screenshots/dashboard_overview.png)
-```
-
-### Department Performance
-
-Add screenshot here
-
-```markdown
-![Department Analysis](screenshots/department_analysis.png)
-```
-
-### Resource Utilization
-
-Add screenshot here
-
-```markdown
-![Resource Utilization](screenshots/resource_utilization.png)
-```
-
-### Readmission Analysis
-
-Add screenshot here
-
-```markdown
-![Readmission Analysis](screenshots/readmission_analysis.png)
-```
-
----
-
-Michael Uhler
-
 
 
